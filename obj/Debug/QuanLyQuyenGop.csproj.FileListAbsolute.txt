@@ -8,3 +8,7 @@ D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.csproj.GenerateR
 D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.csproj.CoreCompileInputs.cache
 D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.exe
 D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.pdb
+D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.login.resources
+D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.Management_Project_Dashboard.resources
+D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.Project_detail_management_dashboard.resources
+D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.register.resources
