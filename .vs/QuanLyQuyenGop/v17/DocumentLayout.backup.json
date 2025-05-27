@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|d:\\l\u1EADp tr\u00ECnh windows\\quanlyquyengop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,9 +27,21 @@
           ]
         },
         {
-          "DockedWidth": 180,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 184,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:09:36.584Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,23 +54,11 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T07:10:06.165Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:09:36.584Z",
-              "EditorCaption": " [Design]"
             }
           ]
         },
         {
-          "DockedWidth": 64,
+          "DockedWidth": 60,
           "SelectedChildIndex": -1,
           "Children": [
             {
