@@ -149,7 +149,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.BackgroundImage = global::QuanLyQuyenGop.Properties.Resources.donation_icon2;
             this.ClientSize = new System.Drawing.Size(812, 450);
             this.Controls.Add(this.dgvDuAn);
             this.Controls.Add(this.btSuaDuAn);
