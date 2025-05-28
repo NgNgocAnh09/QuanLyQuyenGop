@@ -30,18 +30,18 @@
         {
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.splitContainer2 = new System.Windows.Forms.SplitContainer();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.tbTenDK = new System.Windows.Forms.TextBox();
-            this.tbMatKhauDK = new System.Windows.Forms.TextBox();
-            this.tbXacNhanMK = new System.Windows.Forms.TextBox();
-            this.btDKDK = new System.Windows.Forms.Button();
-            this.label6 = new System.Windows.Forms.Label();
-            this.btDNDK = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btDNDK = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btDKDK = new System.Windows.Forms.Button();
+            this.tbXacNhanMK = new System.Windows.Forms.TextBox();
+            this.tbMatKhauDK = new System.Windows.Forms.TextBox();
+            this.tbTenDK = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer2)).BeginInit();
@@ -90,77 +90,47 @@
             this.splitContainer2.SplitterDistance = 252;
             this.splitContainer2.TabIndex = 1;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox1.Image = global::QuanLyQuyenGop.Properties.Resources.donation_icon2;
+            this.pictureBox1.Location = new System.Drawing.Point(44, 109);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(151, 114);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 3;
+            this.pictureBox1.TabStop = false;
+            // 
+            // btDNDK
+            // 
+            this.btDNDK.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.btDNDK.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btDNDK.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btDNDK.Location = new System.Drawing.Point(44, 292);
+            this.btDNDK.Name = "btDNDK";
+            this.btDNDK.Size = new System.Drawing.Size(140, 53);
+            this.btDNDK.TabIndex = 2;
+            this.btDNDK.Text = "Đăng nhập";
+            this.btDNDK.UseVisualStyleBackColor = false;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(50, 251);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(134, 20);
+            this.label6.TabIndex = 1;
+            this.label6.Text = "Đã có tài khoản?";
+            // 
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 22);
+            this.label1.Location = new System.Drawing.Point(0, 27);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(249, 111);
+            this.label1.Size = new System.Drawing.Size(262, 111);
             this.label1.TabIndex = 0;
             this.label1.Text = "Quản lý quyên góp dự án phi lợi nhuận";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.Gray;
-            this.label2.Location = new System.Drawing.Point(86, 37);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(106, 29);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "Đăng ký";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(65, 101);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(124, 20);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "Tên đăng nhập:";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(67, 179);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(82, 20);
-            this.label4.TabIndex = 0;
-            this.label4.Text = "Mật khẩu:";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(65, 266);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(157, 20);
-            this.label5.TabIndex = 0;
-            this.label5.Text = "Xác nhận mật khẩu:";
-            // 
-            // tbTenDK
-            // 
-            this.tbTenDK.Location = new System.Drawing.Point(68, 134);
-            this.tbTenDK.Name = "tbTenDK";
-            this.tbTenDK.Size = new System.Drawing.Size(164, 22);
-            this.tbTenDK.TabIndex = 1;
-            // 
-            // tbMatKhauDK
-            // 
-            this.tbMatKhauDK.Location = new System.Drawing.Point(68, 218);
-            this.tbMatKhauDK.Name = "tbMatKhauDK";
-            this.tbMatKhauDK.Size = new System.Drawing.Size(164, 22);
-            this.tbMatKhauDK.TabIndex = 1;
-            // 
-            // tbXacNhanMK
-            // 
-            this.tbXacNhanMK.Location = new System.Drawing.Point(68, 308);
-            this.tbXacNhanMK.Name = "tbXacNhanMK";
-            this.tbXacNhanMK.Size = new System.Drawing.Size(164, 22);
-            this.tbXacNhanMK.TabIndex = 1;
             // 
             // btDKDK
             // 
@@ -173,38 +143,68 @@
             this.btDKDK.Text = "Đăng ký";
             this.btDKDK.UseVisualStyleBackColor = true;
             // 
-            // label6
+            // tbXacNhanMK
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(48, 240);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(134, 20);
-            this.label6.TabIndex = 1;
-            this.label6.Text = "Đã có tài khoản?";
+            this.tbXacNhanMK.Location = new System.Drawing.Point(68, 308);
+            this.tbXacNhanMK.Name = "tbXacNhanMK";
+            this.tbXacNhanMK.Size = new System.Drawing.Size(164, 22);
+            this.tbXacNhanMK.TabIndex = 1;
             // 
-            // btDNDK
+            // tbMatKhauDK
             // 
-            this.btDNDK.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.btDNDK.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btDNDK.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btDNDK.Location = new System.Drawing.Point(37, 276);
-            this.btDNDK.Name = "btDNDK";
-            this.btDNDK.Size = new System.Drawing.Size(140, 53);
-            this.btDNDK.TabIndex = 2;
-            this.btDNDK.Text = "Đăng nhập";
-            this.btDNDK.UseVisualStyleBackColor = false;
+            this.tbMatKhauDK.Location = new System.Drawing.Point(68, 218);
+            this.tbMatKhauDK.Name = "tbMatKhauDK";
+            this.tbMatKhauDK.Size = new System.Drawing.Size(164, 22);
+            this.tbMatKhauDK.TabIndex = 1;
             // 
-            // pictureBox1
+            // tbTenDK
             // 
-            this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.pictureBox1.Image = global::QuanLyQuyenGop.Properties.Resources.donation_icon2;
-            this.pictureBox1.Location = new System.Drawing.Point(44, 109);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(151, 114);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 3;
-            this.pictureBox1.TabStop = false;
+            this.tbTenDK.Location = new System.Drawing.Point(68, 134);
+            this.tbTenDK.Name = "tbTenDK";
+            this.tbTenDK.Size = new System.Drawing.Size(164, 22);
+            this.tbTenDK.TabIndex = 1;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(65, 266);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(157, 20);
+            this.label5.TabIndex = 0;
+            this.label5.Text = "Xác nhận mật khẩu:";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(67, 179);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(82, 20);
+            this.label4.TabIndex = 0;
+            this.label4.Text = "Mật khẩu:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(65, 101);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(124, 20);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Tên đăng nhập:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.Gray;
+            this.label2.Location = new System.Drawing.Point(86, 37);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(106, 29);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Đăng ký";
             // 
             // register
             // 

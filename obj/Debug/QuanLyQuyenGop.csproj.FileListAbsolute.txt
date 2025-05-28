@@ -2,7 +2,6 @@ D:\Lập trình windows\QuanLyQuyenGop\bin\Debug\QuanLyQuyenGop.exe.config
 D:\Lập trình windows\QuanLyQuyenGop\bin\Debug\QuanLyQuyenGop.exe
 D:\Lập trình windows\QuanLyQuyenGop\bin\Debug\QuanLyQuyenGop.pdb
 D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.csproj.AssemblyReference.cache
-D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.Form1.resources
 D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.Properties.Resources.resources
 D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.csproj.GenerateResource.cache
 D:\Lập trình windows\QuanLyQuyenGop\obj\Debug\QuanLyQuyenGop.csproj.CoreCompileInputs.cache

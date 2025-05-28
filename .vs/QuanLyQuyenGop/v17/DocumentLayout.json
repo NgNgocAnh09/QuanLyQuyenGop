@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\management_project_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|solutionrelative:management_project_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|d:\\l\u1EADp tr\u00ECnh windows\\quanlyquyengop\\project_detail_management_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|solutionrelative:project_detail_management_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|d:\\l\u1EADp tr\u00ECnh windows\\quanlyquyengop\\management_project_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|solutionrelative:management_project_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|d:\\l\u1EADp tr\u00ECnh windows\\quanlyquyengop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\project_detail_management_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|solutionrelative:project_detail_management_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99D3D746-2350-46C6-AD45-666E73D1BB78}|QuanLyQuyenGop.csproj|D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\management_project_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,6 +48,19 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:03:32.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "login.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\login.cs",
@@ -51,11 +68,12 @@
               "ToolTip": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\login.cs [Design]",
               "RelativeToolTip": "login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T07:09:32.643Z"
+              "WhenOpened": "2025-05-27T07:09:32.643Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "register.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\register.cs",
               "RelativeDocumentMoniker": "register.cs",
@@ -67,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Management_Project_Dashboard.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\Management_Project_Dashboard.cs",
               "RelativeDocumentMoniker": "Management_Project_Dashboard.cs",
@@ -79,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Project_detail_management_dashboard.cs [Design]",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\Project_detail_management_dashboard.cs",
               "RelativeDocumentMoniker": "Project_detail_management_dashboard.cs",
@@ -91,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Management_Project_Dashboard.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh windows\\QuanLyQuyenGop\\Management_Project_Dashboard.cs",
               "RelativeDocumentMoniker": "Management_Project_Dashboard.cs",
@@ -99,8 +117,7 @@
               "RelativeToolTip": "Management_Project_Dashboard.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAtwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:05:21.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T15:05:21.666Z"
             }
           ]
         },

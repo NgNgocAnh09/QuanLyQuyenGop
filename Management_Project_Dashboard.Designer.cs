@@ -47,7 +47,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(33, 27);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(97, 50);
+            this.label1.Size = new System.Drawing.Size(112, 50);
             this.label1.TabIndex = 0;
             this.label1.Text = "Tên dự án";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -58,7 +58,7 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(33, 89);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(99, 53);
+            this.label2.Size = new System.Drawing.Size(117, 53);
             this.label2.TabIndex = 1;
             this.label2.Text = "Mô tả dự án";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -66,7 +66,7 @@
             // tbTenDuAn
             // 
             this.tbTenDuAn.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tbTenDuAn.Location = new System.Drawing.Point(136, 42);
+            this.tbTenDuAn.Location = new System.Drawing.Point(167, 43);
             this.tbTenDuAn.Name = "tbTenDuAn";
             this.tbTenDuAn.Size = new System.Drawing.Size(264, 22);
             this.tbTenDuAn.TabIndex = 2;
@@ -74,7 +74,7 @@
             // tbMoTaDuAn
             // 
             this.tbMoTaDuAn.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tbMoTaDuAn.Location = new System.Drawing.Point(136, 104);
+            this.tbMoTaDuAn.Location = new System.Drawing.Point(167, 106);
             this.tbMoTaDuAn.Name = "tbMoTaDuAn";
             this.tbMoTaDuAn.Size = new System.Drawing.Size(456, 22);
             this.tbMoTaDuAn.TabIndex = 2;
@@ -84,7 +84,7 @@
             this.btThemDuAn.BackColor = System.Drawing.Color.WhiteSmoke;
             this.btThemDuAn.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btThemDuAn.ForeColor = System.Drawing.Color.Navy;
-            this.btThemDuAn.Location = new System.Drawing.Point(95, 146);
+            this.btThemDuAn.Location = new System.Drawing.Point(173, 162);
             this.btThemDuAn.Name = "btThemDuAn";
             this.btThemDuAn.Size = new System.Drawing.Size(111, 60);
             this.btThemDuAn.TabIndex = 3;
@@ -96,7 +96,7 @@
             this.btXoaDuAn.BackColor = System.Drawing.Color.WhiteSmoke;
             this.btXoaDuAn.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btXoaDuAn.ForeColor = System.Drawing.Color.Navy;
-            this.btXoaDuAn.Location = new System.Drawing.Point(378, 146);
+            this.btXoaDuAn.Location = new System.Drawing.Point(456, 162);
             this.btXoaDuAn.Name = "btXoaDuAn";
             this.btXoaDuAn.Size = new System.Drawing.Size(111, 60);
             this.btXoaDuAn.TabIndex = 3;
@@ -108,7 +108,7 @@
             this.btSuaDuAn.BackColor = System.Drawing.Color.WhiteSmoke;
             this.btSuaDuAn.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSuaDuAn.ForeColor = System.Drawing.Color.Navy;
-            this.btSuaDuAn.Location = new System.Drawing.Point(230, 146);
+            this.btSuaDuAn.Location = new System.Drawing.Point(308, 162);
             this.btSuaDuAn.Name = "btSuaDuAn";
             this.btSuaDuAn.Size = new System.Drawing.Size(111, 60);
             this.btSuaDuAn.TabIndex = 3;

@@ -37,8 +37,8 @@
             this.label4 = new System.Windows.Forms.Label();
             this.btDKDN = new System.Windows.Forms.Button();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
-            this.label5 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label5 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -95,9 +95,9 @@
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(12, 24);
+            this.label3.Location = new System.Drawing.Point(3, 24);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(238, 154);
+            this.label3.Size = new System.Drawing.Size(259, 154);
             this.label3.TabIndex = 5;
             this.label3.Text = "Quản lý quyên góp dự án phi lợi nhuận";
             // 
@@ -116,7 +116,7 @@
             this.btDKDN.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btDKDN.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btDKDN.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btDKDN.Location = new System.Drawing.Point(33, 299);
+            this.btDKDN.Location = new System.Drawing.Point(46, 299);
             this.btDKDN.Name = "btDKDN";
             this.btDKDN.Size = new System.Drawing.Size(141, 48);
             this.btDKDN.TabIndex = 7;
@@ -147,19 +147,8 @@
             this.splitContainer1.Panel2.Controls.Add(this.tbMatKhauDN);
             this.splitContainer1.Panel2.Controls.Add(this.label2);
             this.splitContainer1.Size = new System.Drawing.Size(544, 411);
-            this.splitContainer1.SplitterDistance = 252;
+            this.splitContainer1.SplitterDistance = 261;
             this.splitContainer1.TabIndex = 8;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.Color.Gray;
-            this.label5.Location = new System.Drawing.Point(70, 39);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(138, 29);
-            this.label5.TabIndex = 5;
-            this.label5.Text = "Đăng nhập";
             // 
             // pictureBox1
             // 
@@ -172,6 +161,17 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.Gray;
+            this.label5.Location = new System.Drawing.Point(70, 39);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(138, 29);
+            this.label5.TabIndex = 5;
+            this.label5.Text = "Đăng nhập";
             // 
             // login
             // 
