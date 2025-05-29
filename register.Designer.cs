@@ -112,6 +112,7 @@
             this.btDNDK.TabIndex = 2;
             this.btDNDK.Text = "Đăng nhập";
             this.btDNDK.UseVisualStyleBackColor = false;
+            this.btDNDK.Click += new System.EventHandler(this.btDNDK_Click_1);
             // 
             // label6
             // 
@@ -142,9 +143,11 @@
             this.btDKDK.TabIndex = 2;
             this.btDKDK.Text = "Đăng ký";
             this.btDKDK.UseVisualStyleBackColor = true;
+            this.btDKDK.Click += new System.EventHandler(this.btDKDK_Click);
             // 
             // tbXacNhanMK
             // 
+            this.tbXacNhanMK.BackColor = System.Drawing.SystemColors.Window;
             this.tbXacNhanMK.Location = new System.Drawing.Point(68, 308);
             this.tbXacNhanMK.Name = "tbXacNhanMK";
             this.tbXacNhanMK.Size = new System.Drawing.Size(164, 22);
@@ -190,9 +193,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(65, 101);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(124, 20);
+            this.label3.Size = new System.Drawing.Size(104, 20);
             this.label3.TabIndex = 0;
-            this.label3.Text = "Tên đăng nhập:";
+            this.label3.Text = "Tên đăng ký:";
             // 
             // label2
             // 

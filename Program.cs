@@ -16,7 +16,7 @@ namespace QuanLyQuyenGop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Management_Project_Dashboard());
+            Application.Run(new register());
         }
     }
 }
